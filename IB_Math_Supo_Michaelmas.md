@@ -1,7 +1,10 @@
 # IB Math Supervision Quick Notes
 Ruize Li, rl737@cam.ac.uk
+
 Jesus College, University of Cambridge
+
 Supervisor: Mr Bob Dillon
+
 # Michaelmas Term
 ## Supervision Oct 10 2024
 ### Sheet 0 Q1
